@@ -1,5 +1,8 @@
 ### Hi there 👋
+# I'm Rounak
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/rounk-ctrl?color=black&label=Github%20Followers&logo=Github&logoColor=white&style=for-the-badge">
+<a href="https://www.youtube.com/channel/UCWQFDxYFN9vd29lSUMPAWFg" target="_blank"><img src="https://img.shields.io/badge/ArsenTech%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
 <!--
 **rounk-ctrl/rounk-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
