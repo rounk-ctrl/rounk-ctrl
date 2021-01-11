@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" align="left" />
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="48" height="48" align="left" />
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="48" height="48" align="left" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcrMr9oXy6edHmYFI7ya0p3ap4mpxVrNS0Iw&usqp=CAU" width="48" height="48" align="left" />
+<img src="" width="48" height="48" align="left" />
