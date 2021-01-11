@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" align="left" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" align="left" />
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="48" height="48" align="left" />
-<img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" width="48" height="48" align="left" />
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width="48" height="48" align="left" />
